@@ -6,7 +6,6 @@ Die **Happy Places App** ist eine einfache Android-Anwendung, die es Nutzer*inne
 
 -  Orte hinzufügen mit Titel, Beschreibung und Bild  
 -  Notizen zu jedem Ort speichern  
--  (geplant) Karte zur Anzeige der Orte  
 -  Bilder aus der Galerie auswählen  
 
 ##  Technische Details
